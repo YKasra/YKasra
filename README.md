@@ -25,7 +25,7 @@ Building a system that applies FFT, MESA, and Hilbert Transform to cryptocurrenc
 ### `> past`
 
 **Music Genre Classifier** · [repo →](https://github.com/YKasra/Classification-of-Music-Genres-Using-CNN-and-GTZAN-dataset)
-CNN trained on 1,000 GTZAN samples. 94.89% test accuracy across 10 genres. 550 epochs of patience.
+CNN trained on 1,000 GTZAN samples. High test accuracy across 10 genres. 550 epochs of patience.
 `TensorFlow` `Librosa` `Scikit-learn`
 
 **Roland SH-101 Software Synth**
