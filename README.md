@@ -1,6 +1,6 @@
 ```
  ╔═══════════════════════════════════════════════════════════════╗
- ║   Audio Signals. Financial Signals. The math doesn't care.   ║
+ ║   Audio Signals. Financial Signals. The math doesn't care.    ║
  ╚═══════════════════════════════════════════════════════════════╝
 ```
 
