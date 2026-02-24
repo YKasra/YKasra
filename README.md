@@ -52,7 +52,7 @@ Finger drum controller with touch pads. Ultrasonic sensors controlling pitch and
 
 ### `> before code`
 
-Head of Trading & Digital Assets — managed a **$100K+ crypto portfolio** and a **1,000 TH/s mining farm** with a team of 6 engineers. It turns out managing hardware that hashes and hardware that makes sound isn't that different.
+Head of Trading & Digital Assets — managed a **$100K+ crypto portfolio** and a **1,000 TH/s mining farm** with a team of 4 engineers. It turns out managing hardware that hashes and hardware that makes sound isn't that different.
 
 ---
 
