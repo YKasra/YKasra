@@ -4,9 +4,9 @@
  ╚═══════════════════════════════════════════════════════════════╝
 ```
 
-### Kasra Yaraei — Bucharest, Romania
+### Kasra Yaraei
 
-I break things apart to understand how they work - whether that's an audio waveform, a crypto market cycle, or a classic analog synthesizer.
+A Technology geek who breaks things apart to understand how they work - whether that's an audio waveform, a crypto market cycle, or a classic analog synthesizer.
 
 Started in **sound engineering** → ran **trading desks and Crypto mining farms** → now writing **DSP-powered trading algorithms** for my master's dissertation. The common thread? **Signal processing.**
 
