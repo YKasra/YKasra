@@ -6,9 +6,9 @@
 
 ### Kasra Yaraei — Bucharest, Romania
 
-I break things apart to understand how they work — whether that's an audio waveform, a crypto market cycle, or a classic analog synthesizer.
+I break things apart to understand how they work - whether that's an audio waveform, a crypto market cycle, or a classic analog synthesizer.
 
-Started in **sound engineering** → ran **trading desks and mining farms** → now writing **DSP-powered trading algorithms** for my master's dissertation. The common thread? **Signal processing.**
+Started in **sound engineering** → ran **trading desks and Crypto mining farms** → now writing **DSP-powered trading algorithms** for my master's dissertation. The common thread? **Signal processing.**
 
 ---
 
@@ -27,6 +27,10 @@ Building a system that applies FFT, MESA, and Hilbert Transform to cryptocurrenc
 **CoinTrack — Finance & Crypto Tracker** · [repo →](https://github.com/YKasra/cointrack-finance-app) · [live demo →](https://effulgent-yeot-1e7fdf.netlify.app)
 Full-stack Flutter app: budget tracking (EUR/RON), live crypto portfolio via CoinGecko API, Firebase auth & Firestore. Deployed on Netlify.
 `Flutter` `Dart` `Firebase` `REST API`
+
+**EEG Brain-Computer Interface** · [repo →](https://github.com/YKasra/eeg-brain-computer-interface)
+Real-time blink detection with BrainBit EEG → Arduino LED control, brain-controlled Dino game, and ML attention classification. Collaborative research project.
+`Python` `Arduino` `EEG` `neurosdk2`
 
 **Music Genre Classifier** · [repo →](https://github.com/YKasra/Classification-of-Music-Genres-Using-CNN-and-GTZAN-dataset)
 CNN trained on 1,000 GTZAN samples. High test accuracy across 10 genres. 550 epochs of patience.
@@ -59,6 +63,7 @@ languages    python · sql · dart · c++ (arduino)
 ml/dsp       tensorflow · scikit-learn · librosa · scipy · fft · mesa · hilbert
 viz          plotly · matplotlib · streamlit
 app dev      flutter · firebase · firestore · rest apis
+hardware     arduino · eeg (brainbit) · sensors · pure data
 audio        pure data · max msp · ableton · cubase
 finance      algo trading · portfolio mgmt · fx · crypto
 ```
