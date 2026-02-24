@@ -24,11 +24,19 @@ Building a system that applies FFT, MESA, and Hilbert Transform to cryptocurrenc
 
 ### `> past`
 
+**CoinTrack — Finance & Crypto Tracker** · [repo →](https://github.com/YKasra/cointrack-finance-app) · [live demo →](https://effulgent-yeot-1e7fdf.netlify.app)
+Full-stack Flutter app: budget tracking (EUR/RON), live crypto portfolio via CoinGecko API, Firebase auth & Firestore. Deployed on Netlify.
+`Flutter` `Dart` `Firebase` `REST API`
+
 **Music Genre Classifier** · [repo →](https://github.com/YKasra/Classification-of-Music-Genres-Using-CNN-and-GTZAN-dataset)
 CNN trained on 1,000 GTZAN samples. High test accuracy across 10 genres. 550 epochs of patience.
 `TensorFlow` `Librosa` `Scikit-learn`
 
-**Roland SH-101 Software Synth**
+**Financial Company Clustering** · [repo →](https://github.com/YKasra/Finance-ML-Clustering)
+K-Means clustering of 160+ company records by Revenue, Net Income, and EBITDA.
+`Scikit-learn` `Pandas` `Seaborn`
+
+**Roland SH-101 Software Synth** · [repo →](https://github.com/YKasra/SH101-PureData-Synthesizer)
 Full signal chain rebuilt in Pure Data — VCO, VCF, VCA, LFO, ADSR. From waveform to speaker.
 `Pure Data` `DSP`
 
@@ -47,16 +55,15 @@ Head of Trading & Digital Assets — managed a **$100K+ crypto portfolio** and a
 ### `> stack`
 
 ```
-languages    python · sql · c++ (arduino)
+languages    python · sql · dart · c++ (arduino)
 ml/dsp       tensorflow · scikit-learn · librosa · scipy · fft · mesa · hilbert
 viz          plotly · matplotlib · streamlit
+app dev      flutter · firebase · firestore · rest apis
 audio        pure data · max msp · ableton · cubase
-finance        algo trading · portfolio mgmt · fx · crypto
+finance      algo trading · portfolio mgmt · fx · crypto
 ```
 
 ---
 
-<p align="center">
-  <a href="https://linkedin.com/in/kasrayaraei">linkedin</a> · 
-  <a href="mailto:kasrayaraei@gmail.com">email</a>
-</p>
+[linkedin](https://linkedin.com/in/kasrayaraei) ·
+[email](mailto:kasrayaraei@gmail.com)
